@@ -25,13 +25,13 @@ Loop through each value in the object with the matching provided fixed value.
 Erases all object data for the object with the matching provided fixed value.
 
 ## Conditions
-* **Does Value <name> exist in object with fixed value <FV>?**<br>
-Returns true if the value titled <name> exists in the object with the matching provided fixed value.
+* **Does Value exist in object with fixed value?**<br>
+Returns true if the value name provided exists in the object with the matching provided fixed value.
 
-* **Does Value <name> exist in the buffer?**<br>
-Returns true if the value titled <name> exists in the buffer.
+* **Does Value exist in the buffer?**<br>
+Returns true if the value provided exists in the buffer.
 
-* **On Value Loop <name>**<br>
+* **On Value Loop**<br>
 Loops on object with the matching provided fixed value's data.
 
 ## Expressions
