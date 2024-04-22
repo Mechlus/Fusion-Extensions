@@ -13,4 +13,5 @@
 
 ## Extensions
 ### Value Map Object
-This object stores values associated with fixed value keys or in a temporary buffer for easy data management. Essentially, it is a simple hashtable for Fusion. [More Info](https://github.com/Mechlus/Fusion-Extensions/blob/main/valuemapobject/info.md)
+This object stores values associated with fixed value keys or in a temporary buffer for easy data management. Essentially, it is a simple hashtable for Fusion.
+[More Info](https://github.com/Mechlus/Fusion-Extensions/blob/main/valuemapobject/info.md)
