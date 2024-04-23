@@ -5,9 +5,7 @@
 
 ![image](https://github.com/Mechlus/Fusion-Extensions/assets/82886093/d48fb56b-483f-4423-ae1c-5f47ffcb3010)
 
-2. Drag the file contents from this repository inside **Extensions**
-
-![image](https://github.com/Mechlus/Fusion-Extensions/assets/82886093/5e1b8e3a-4faf-458a-b47d-cef5723b9add)
+2. Drag the file contents from the extension's sub-repository inside the folder.
 
 3. Restart Clickteam Fusion 2.5
 
