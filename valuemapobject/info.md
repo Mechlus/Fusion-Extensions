@@ -2,7 +2,7 @@
 The Value Map object is a simple hashtable object for Clickteam Fusion 2.5. It can store String and Number data and can be accessed with integer values. (fixed values in this context, but they can be any integer) The object also has a **buffer** which acts like a way to store temporary variables instead of creating a separate Active to store said data or adding unnecessary data slots to your Fusion objects.
 
 **Compatability**<br>
-This object is compatible with Windows, Android and web platforms.
+This object is compatible with Windows and Android platforms.
 <br>
 
 ## Actions
