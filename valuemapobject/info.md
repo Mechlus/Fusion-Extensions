@@ -46,6 +46,7 @@ Get a Number or String value from the buffer.
 
 * **Loops**<br>
 Get the Number or String value at the current loop index.
+* If the current value at the loop index is a String and you ask for a float, it will return -1. If it is a float and you ask for a String, it will return "".
 
 * **Get fixed value of current object**<br>
 Returns the current object's fixed value.
